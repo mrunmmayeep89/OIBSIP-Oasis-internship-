@@ -1,3 +1,10 @@
+         /*        Welcome to the Oasis infobyte internship
+                   TASK - NUMBER GUESSING GAME
+                   CODE IMPLEMENTED BY MRUNMAYEE PAWAR
+         */
+
+
+
 import java.util.Scanner;//package to get Userinput
 import java.util.Random;//package to generate random number
 
